@@ -42,9 +42,8 @@
     Obcaecati, delectus est optio at ipsam quasi omnis fuga deleniti molestias dolores voluptas expedita sunt non corrupti alias error rem quia? Numquam inventore debitis quos rerum officiis blanditiis a corrupti?
     Sunt quod necessitatibus nam tempore numquam ad illo eaque dolores, sit hic porro quibusdam quia nostrum repellendus excepturi voluptatum id blanditiis? Fuga accusantium saepe, voluptatem minima eligendi sit natus. Dolor.
 </p>
-    
-    
+    <H2 class="text-sucess text-center">Utilisation de GIT / GITHUB</H2>
+   
     </div> 
-    
 </body>
 </html>
